@@ -1,0 +1,5 @@
+git+https://github.com/Rapptz/discord.py
+numpy
+datetime
+asyncio==3.4.3
+pickle
